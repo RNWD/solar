@@ -1,3 +1,5 @@
+<p><markdown>
+#Markdown Live Editor#
 ## This is the Header ##
 
 
@@ -11,7 +13,7 @@ This is normal text<br>
 
 > This is quoted text<br>
 
- - This is a bullet point
+ - This a bullet point
  
 
   1. This is a number point
@@ -20,3 +22,6 @@ This is normal text<br>
 
 
   [1]: http://github.com/lightrowden
+
+***This is bold italic text***
+</markdown></p>
