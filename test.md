@@ -1,5 +1,3 @@
-<p><markdown>
-#Markdown Live Editor#
 ## This is the Header ##
 
 
@@ -24,4 +22,4 @@ This is normal text<br>
   [1]: http://github.com/lightrowden
 
 ***This is bold italic text***
-</markdown></p>
+
