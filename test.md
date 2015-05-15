@@ -11,7 +11,12 @@ This is normal text<br>
 
 > This is quoted text<br>
 
- - This a bullet point
+ - This is a bullet point
  
 
-1. This is a number point
+  1. This is a number point
+
+[This is a link][1]
+
+
+  [1]: http://github.com/lightrowden
